@@ -1,4 +1,4 @@
-# Desafío - Sistema del FBI
+# Prueba - Skate Park
 
 En esta prueba, hemos desarrollado una plataforma web para gestionar la competencia de Skate organizada por la Municipalidad de Santiago. Utilizamos tecnologías como Node.js, Express, PostgreSQL, JSON Web Tokens (JWT) y Express FileUpload.
 
